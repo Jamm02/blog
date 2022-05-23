@@ -1,4 +1,4 @@
-Hello, I am Moteen Shah from VJTI, Mumbai. This is the first time I'll be applying for GSoC. After going through a vast array of Organisations and learning about their projects, I finally found "*Introducing job control to the storage driver*" project of **libvirt** most interesting.
+Hello, I am Moteen Shah from VJTI, Mumbai. This is the first introduction with opensource contributions. After going through a vast array of Organisations and learning about their projects, I finally found **libvirt** and virtual machines most interesting.
 
 ## Getting Started
 
